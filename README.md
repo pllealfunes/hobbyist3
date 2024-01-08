@@ -1,6 +1,6 @@
 # Hobbyist 3
 
-Currently working on updating my capstone project. Hobbyist is a blogging platform where users can share their hobbies. This project is created with the MERN stack.
+Currently working on updating my capstone project. Hobbyist is a blogging platform where users can share their hobbies. This project is created with the MERN stack. Stay tuned for more!
 
 ## For Version 2
 
