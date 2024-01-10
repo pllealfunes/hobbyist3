@@ -10,9 +10,31 @@ Currently working on updating my capstone project. Hobbyist is a blogging platfo
 
 [Hobbyist1] (http://142.93.198.94/)
 
+
+## Current Features
+
+* Create user account
+* View posts + comments
+* Create posts + comments
+* Update posts + comments
+* Delete posts + comments
+* Follow + Unfollow categories
+* Follow + Unfollow users
+* User Feed - posts from users + categories currently following
+* Explore page - View latest post + filter posts by category
+* User Profiles - view posts from users, view number of categories and users they follow
+* Search - Search posts by word, by category, or by both.
+
+
+## Before Coding
+
+- [X] Create React APP --> Vite
+- [ ] Work on necessary clean up + organization
+- [ ] Add, Remove, or just look into other options for certain things like styling, toasts, etc.
+- [ ] Search for repeated code and create components
+
 ### List of Project Updates
 
-- [ ] Search for repeated code and create components
 - [ ] Fix routing code
 - [ ] Fix routing back and forth
 - [ ] Add ability to go to next post or go back to previous post
